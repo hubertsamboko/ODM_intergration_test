@@ -75,7 +75,6 @@ dataset_name/
 
 ---
 
-## 2. Run different ODM versions
 
 ## 2a. Running tests with OATS
 
