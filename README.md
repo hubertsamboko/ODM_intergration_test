@@ -213,12 +213,5 @@ pip install pillow scikit-image opencv-python tifffile numpy
 
 ---
 
-# Purpose
-
-This repository supports:
-
-- **ODM regression testing**
-- **algorithm change detection**
-- **research benchmarking of photogrammetry pipelines**
 
 It provides a lightweight way to verify that new releases of OpenDroneMap do not unintentionally alter orthomosaic outputs.
