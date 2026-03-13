@@ -77,7 +77,17 @@ dataset_name/
 
 ## 2. Run different ODM versions
 
-Run each version of OpenDroneMap using Docker.
+## 2a. Running tests with OATS
+
+Integration testing can also be performed using the **OpenDroneMap Automated Testing System (OATS)**.
+
+For details on using OATS, refer to the official repository:
+
+https://github.com/OpenDroneMap/oats
+
+---
+
+## 2b Run each version of OpenDroneMap using Docker.
 
 Example:
 
